@@ -1,0 +1,292 @@
+[
+  {
+    "city": "Alameda",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 12.0
+  },
+  {
+    "city": "Alpine",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Amador",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Butte",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Calaveras",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Colusa",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Contra Costa",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 100.0
+  },
+  {
+    "city": "Del Norte",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "El Dorado",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Fresno",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Glenn",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Humboldt",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Imperial",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Inyo",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Kern",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Kings",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Lake",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Lassen",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Los Angeles",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 1.5
+  },
+  {
+    "city": "Madera",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Marin",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 2.0
+  },
+  {
+    "city": "Mariposa",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Mendocino",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Merced",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Modoc",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Mono",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Monterey",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Napa",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Nevada",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Orange",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Placer",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Plumas",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Riverside",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 1.1
+  },
+  {
+    "city": "Sacramento",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 2.75
+  },
+  {
+    "city": "San Benito",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "San Bernardino",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "San Diego",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "San Francisco",
+    "countyTransferTax": 0.0,
+    "cityTransferTax": 0.5
+  },
+  {
+    "city": "San Joaquin",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "San Luis Obispo",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "San Mateo",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 5.0
+  },
+  {
+    "city": "Santa Barbara",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Santa Clara",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 3.3
+  },
+  {
+    "city": "Santa Cruz",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Shasta",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Sierra",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Siskiyou",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Solano",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 3.3
+  },
+  {
+    "city": "Sonoma",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 2.0
+  },
+  {
+    "city": "Stanislaus",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Sutter",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Tehama",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Trinity",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Tulare",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Tuolumne",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Ventura",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Yolo",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  },
+  {
+    "city": "Yuba",
+    "countyTransferTax": 1.1,
+    "cityTransferTax": 0.0
+  }
+]
